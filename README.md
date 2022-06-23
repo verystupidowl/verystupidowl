@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Backend+developer;Student)](https://git.io/typing-svg)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verystupidowl&theme=tokyonight_duo&hide_border=true"
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verystupidowl&theme=tokyonight_duo&hide_border=true"/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verystupidowl&theme=github_dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
