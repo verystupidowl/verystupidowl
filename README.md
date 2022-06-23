@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Backend+developer;Student)](https://git.io/typing-svg)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verystupidowl&theme=tokyonight_duo&hide_border=true"/>
 </a>
