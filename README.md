@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=verystupidowl&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verystupidowl&theme=github_dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verystupidowl&theme=github_dark&layout=compact&hide_border=true&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **verystupidowl/verystupidowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
